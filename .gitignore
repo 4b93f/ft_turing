@@ -1,0 +1,39 @@
+
+/target/
+/ft_turing/target/
+
+**/*.rs.bk
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+
+# OCaml artifacts (from previous implementation)
+*.cmo
+*.cmi
+*.cma
+*.cmx
+*.cmxa
+*.o
+*.a
+_build/
+
+# Executables
+ft_turing
+*.exe
+
+# Logs
+*.log
+
+.github
